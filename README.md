@@ -1,5 +1,6 @@
 # Pacman MDP Agent
-A pacman agent that uses MDP to find the best path to the goal.
+A pacman agent that uses MDP to find the best path to the goal
+
 Author: Abdurrahman Lleshi
 
 ## Where to find the code:
